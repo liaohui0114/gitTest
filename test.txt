@@ -3,9 +3,5 @@ liaohui
 branch:develop
 develop
 
-<<<<<<< HEAD
 zzzz
 master
-=======
-to merge
->>>>>>> develop
