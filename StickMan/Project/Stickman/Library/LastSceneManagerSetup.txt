@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Project/Scene/Level_Battle.unity
+  isLoaded: 1
+  isActive: 1

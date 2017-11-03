@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<content>
+<id id="head_f0000"  is_body =" 1" position ="Head" layer_order ="10" mass ="0" armor ="1" damage ="2" path ="head/f0000" />
+<id id="head_e0001"  is_body =" 0" position ="Head" layer_order ="20" mass ="1" armor ="3" damage ="6" path ="head/e0001" />
+<id id="spine_f0000"  is_body =" 1" position ="Spine" layer_order ="7" mass ="0" armor ="1" damage ="2" path ="spine/f0000" />
+<id id="downArmL_f0000" is_body =" 1"  position ="DownArmL" layer_order ="9" mass ="0" armor ="1" damage ="2" path ="downArmL/f0000" />
+<id id="downArmL_e0001" is_body =" 0"  position ="DownArmL" layer_order ="18" mass ="0" armor ="3" damage ="5" path ="downArmL/e0001" />
+<id id="downArmR_f0000"  is_body =" 1" position ="DownArmR" layer_order ="2" mass ="0" armor ="1" damage ="2" path ="downArmR/f0000" />
+<id id="downArmR_e0001" is_body =" 0"  position ="DownArmR" layer_order ="11" mass ="0" armor ="3" damage ="5" path ="downArmR/e0001" />
+<id id="downLegL_f0000"  is_body =" 1" position ="DownLegL" layer_order ="6" mass ="0" armor ="1" damage ="2" path ="downLegL/f0000" />
+<id id="downLegL_e0001"  is_body =" 0" position ="DownLegL" layer_order ="16" mass ="0" armor ="5" damage ="8" path ="downLegL/e0001" />
+<id id="downLegR_f0000"  is_body =" 1" position ="DownLegR" layer_order ="4" mass ="0" armor ="1" damage ="2" path ="downLegR/f0000" />
+<id id="downLegR_e0001"  is_body =" 0" position ="DownLegR" layer_order ="14" mass ="0" armor ="5" damage ="8" path ="downLegR/e0001" />
+<id id="upArmR_f0000"  is_body =" 1" position ="UpArmR" layer_order ="2" mass ="0" armor ="1" damage ="2" path ="upArmR/f0000" />
+<id id="upArmL_f0000"  is_body =" 1" position ="UpArmL" layer_order ="8" mass ="0" armor ="1" damage ="2" path ="upArmL/f0000" />
+<id id="upLegL_f0000"  is_body =" 1" position ="UpLegL" layer_order ="5" mass ="0" armor ="1" damage ="2" path ="upLegL/f0000" />
+<id id="upLegR_f0000"  is_body =" 1" position ="UpLegR" layer_order ="3" mass ="0" armor ="1" damage ="2" path ="upLegR/f0000" />
+</content>

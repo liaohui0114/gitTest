@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<content>
+<id id="char_0001" unit_length ="2" spine_mass="1" spine_limit ="30" spine_angle ="0" spine_length ="2.4" spine_thickness ="1.9"
+                    head_mass="0.5" head_limit ="10" head_angle ="0" head_length ="1.5" head_thickness ="1.4"
+                    upArmL_mass="0.5" upArmL_limit ="60" upArmL_angle ="-30" upArmL_length ="1" upArmL_thickness ="0.8"
+                    upArmR_mass="0.5" upArmR_limit ="60" upArmR_angle ="30" upArmR_length ="1" upArmR_thickness ="0.8"
+                    downArmL_mass="0.5" downArmL_limit ="60" downArmL_angle ="30" downArmL_length ="1.25" downArmL_thickness ="0.8"
+                    downArmR_mass="0.5" downArmR_limit ="60" downArmR_angle ="30" downArmR_length ="1.25" downArmR_thickness ="0.8"
+                    upLegL_mass="0.5" upLegL_limit ="60" upLegL_angle ="0" upLegL_length ="1.25" upLegL_thickness ="0.8"
+                    upLegR_mass="0.5" upLegR_limit ="60" upLegR_angle ="20" upLegR_length ="1.25" upLegR_thickness ="0.8"
+                    downLegL_mass="0.5" downLegL_limit ="60" downLegL_angle ="-30" downLegL_length ="1.2" downLegL_thickness ="0.8"
+                    downLegR_mass="0.5" downLegR_limit ="60" downLegR_angle ="-30" downLegR_length ="1.2" downLegR_thickness ="0.8"
+  />
+
+</content>
